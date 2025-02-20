@@ -1,0 +1,6 @@
+[submodule "nonlinear-info-editor"]
+	path = nonlinear-info-editor
+	url = https://github.com/GDGVIT/nonlinear-info-editor.git
+[submodule "nonlinear-info-unity-interpreter"]
+	path = nonlinear-info-unity-interpreter
+	url = https://github.com/GDGVIT/nonlinear-info-unity-interpreter.git
